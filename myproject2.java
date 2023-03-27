@@ -3,5 +3,6 @@ public class myproject2 {
         System.out.println("Lodchong java");
         System.out.println("Lodchong java");
         System.out.println("Lodchong java");
+        System.out.println("Lodchong java");
     }
 }
